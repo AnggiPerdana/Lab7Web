@@ -23,7 +23,7 @@ Kemudian jalankan Web Server.
 Untuk menjalankan web server dari menu XAMPP Control.
 
 #### Memulai PHP
-Kemudian buat folder lab7_php_dasar pada root directory web server (d:\xampp\htdocs).
+Kemudian buat folder lab7_php_dasar pada root directory web server (E:\xampp\htdocs).
 Untuk mengakses direktory tersebut pada web server dengan mengakses URL:
 `http://localhost/lab7_php_dasar/`.
 
